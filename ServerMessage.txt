@@ -1,0 +1,9 @@
+First line is title!
+My rules are as follows:
+Don't do this
+Or this
+Or any of this
+
+Have fun!
+discordLink=https://discord.gg/0riQVXihqadCPcl6
+--end--
