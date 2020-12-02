@@ -1,9 +1,9 @@
-First line is title!
+Welcome to the Monday Night Armaholics Blackwake server.
 My rules are as follows:
-Don't do this
-Or this
-Or any of this
+Rule #1 Don't be a dick.
+Rule #2 See Rule #1.
+Rule #3 Dicks walk the plank and then get kicked.
 
 Have fun!
-discordLink=https://discord.gg/0riQVXihqadCPcl6
+discordLink=https://discord.gg/WxH4RFU34m
 --end--
